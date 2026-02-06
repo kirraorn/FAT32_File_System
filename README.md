@@ -3,8 +3,8 @@
     Creating a robust file system for Fat32 
 
 ## Group Members
-- **Kirra Orndorff**: kno22a@fsu.edu
-- **Kate **
+- **Kirra Orndorff**
+- **Kate**
 - **Ludginie**
   
 ## Division of Labor
