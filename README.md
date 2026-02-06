@@ -4,8 +4,8 @@
 
 ## Group Members
 - **Kirra Orndorff**: kno22a@fsu.edu
-- **Kate Payen**: kmp22i@fsu.edu
-- **Ludginie Dorval**: lld22@fsu.edu
+- **Kate **
+- **Ludginie**
   
 ## Division of Labor
 
@@ -15,23 +15,23 @@
 
 ### Part 2: Navigation
 - **Responsibilities**: Need to implement cd and ls commands
-- **Assigned to**: Kirra Orndorff, Ludginie Dorval
+- **Assigned to**: Kirra Orndorff, Ludginie 
 
 ### Part 3: Create
 - **Responsibilities**: implement mkdir and creat
-- **Assigned to**: Kirra Orndorff, Kate Payen
+- **Assigned to**: Kirra Orndorff, Kate 
 
 ### Part 4: Read
 - **Responsibilities**: implement open, close, lsof, lseek, and read 
-- **Assigned to**: Kirra Orndorff, Kate Payen
+- **Assigned to**: Kirra Orndorff, Kate
 
 ### Part 5: Update
 - **Responsibilities**: implement write and mv
-- **Assigned to**: Ludginie Dorval, Kate Payen
+- **Assigned to**: Ludginie, Kate 
 
 ### Part 6: Delete
 - **Responsibilities**: implement rm and rmdir
-- **Assigned to**: Ludginie Dorval
+- **Assigned to**: Ludginie 
 
 ### Extra Credit
 - **Responsibilities**: 
@@ -85,23 +85,6 @@ Each member records their contributions here.
 | 2025-11-20 | finished read/lsof   |
 | 2025-11-21 | began creat command  |
 | 2025-11-212| completed creat command  |
-
-### Ludginie Dorval
-
-| Date       | Work Completed / Notes |
-|------------|------------------------|
-| 2025-12-02 |  Add command function prototypes for file operations  |
-
-
-
-
-### Kate Payen
-
-| Date       | Work Completed / Notes |
-|------------|------------------------|
-| 2025-12-02 | Started part three working on mkdir function |
-| 2025-12-02 | Started part five|
-
 
 
 ## Meetings
